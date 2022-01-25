@@ -5,7 +5,7 @@
 Personas : Patient, Doctors Office, Specialists 
  
 ## User Stories
-As an admin I want to be able to create accounts (Doctor, Specialists, Patients)and login and manage all accounts as well as have access to everything
+1. As an admin I want to be able to create accounts (Doctor, Specialists, Patients)and login and manage all accounts as well as have access to everything
 2. As a user (Doctor, Specialists, Patients), I want to be able to login so that I can access specific services
     * user can update their profile (name, profile picture, basic info)
     * user can login with their username and password
