@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for special repo arc web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilHakimiUofT/SpecialistRepositoryApp.git"
+  },
+  "author": "Sameh Ahmed, Sahil Hakimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilHakimiUofT/SpecialistRepositoryApp/issues"
+  },
+  "homepage": "https://github.com/SahilHakimiUofT/SpecialistRepositoryApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
