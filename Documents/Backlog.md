@@ -1,7 +1,7 @@
-# Backlog
+# Backlog / Functionality
  
 **Note:** The term *user* is used to refer to Doctors, Specialists, Patients and Admin.
- 
+
 Personas : Patient, Doctors Office, Specialists 
  
 ## User Stories
